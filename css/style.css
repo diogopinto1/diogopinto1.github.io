@@ -51,7 +51,7 @@ input[type=number] {
       position: fixed;
       z-index:100;
       font-family: poppins;
-      background-color: #202020;
+      background-color: black;
       color: whitesmoke;
       font-size: 70px;
       width: 100%;
