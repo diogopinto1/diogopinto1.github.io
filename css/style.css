@@ -263,11 +263,11 @@ body{
     z-index: 2;
     font-weight:700;
     font-family: poppins;
-    font-size: 90px;
+    font-size: 75px;
 }
 .header-content .secondline{
     z-index: 2;
-    font-size: 40px;
+    font-size: 30px;
     padding-top:20px ;
     font-weight:500;
     color: rgb(255, 255, 255,.8);
