@@ -61,7 +61,7 @@ body{
     height: auto;
     overflow-x: hidden;
     width: 100%;
-    background: #171717;
+    background: black;
 }
 #header{
     background:#101010;
@@ -263,11 +263,11 @@ body{
     z-index: 2;
     font-weight:700;
     font-family: poppins;
-    font-size: 65px;
+    font-size: 90px;
 }
 .header-content .secondline{
     z-index: 2;
-    font-size: 30px;
+    font-size: 40px;
     padding-top:20px ;
     font-weight:500;
     color: rgb(255, 255, 255,.8);
